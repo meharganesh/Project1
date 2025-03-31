@@ -55,7 +55,7 @@ The dataset consists of two files:
 ### 4. **Model Building**
    - A **Voting Regressor** was implemented by combining multiple models (e.g., Linear Regression, Decision Tree, Random Forest) to improve predictive performance.
    - **GridSearchCV** was used for hyperparameter tuning to identify the best parameters for the regression models.
-   - Models were evaluated based on performance metrics such as **RMSE (Root Mean Squared Error)** and **R² (Coefficient of Determination)**.
+
 
 ## Steps to Run the Project
 
